@@ -7,3 +7,4 @@
 [https://github.com/2303A51941/23CSBTB-27/blob/main/Untitled3.ipynb]
 [https://github.com/2303A51941/23CSBTB-27/blob/main/lab06.ipynb]
 [https://github.com/2303A51941/23CSBTB-27/blob/main/lab04.ipynb]
+[https://github.com/2303A51941/23CSBTB-27/blob/main/lab_7.ipynb]
